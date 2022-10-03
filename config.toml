@@ -1,0 +1,54 @@
+theme = "base16_default_dark"
+
+[editor]
+scrolloff                   = 0
+mouse                       = true
+middle-click-paste          = true
+scroll-lines                = 3
+# shell                       = "cmd"
+line-number                 = "absolute"
+cursorline                  = false
+gutters                     = ["diagnostics", "line-numbers"]
+auto-completion             = true
+auto-format                 = true
+idle-timeout                = 400
+completion-trigger-len      = 1
+auto-info                   = true
+true-color                  = false
+rulers                      = []
+color-modes                 = false
+
+# [editor.statusline]
+
+[editor.lsp]
+display-messages            = false
+auto-signature-help         = true
+display-signature-help-docs = false
+
+[editor.cursor-shape]
+normal                      = "block"
+insert                      = "bar"
+select                      = "block"
+
+[editor.file-picker]
+hidden                      = false
+parents                     = true
+ignore                      = true
+git-ignore                  = true
+git-global                  = true
+git-exclude                 = true
+# max-depth                   = "None"
+
+# [editor.auto-pairs]
+
+[editor.search]
+smart-case                  = true
+wrap-around                 = true
+
+[editor.whitespace]
+render                      = "all"
+# characters                  = 
+
+[editor.indent-guides]
+render                      = false
+character                   = ":"

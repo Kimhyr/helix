@@ -1,0 +1,79 @@
+"ui.background"           = { fg = , bg = , modifiers = []}
+"ui.background.separator" = { fg = , bg = , modifiers = []}
+"ui.cursor"               = { fg = , bg = , modifiers = []}
+"ui.cursor.insert"        = { fg = , bg = , modifiers = []}
+"ui.cursor.select"        = { fg = , bg = , modifiers = []}
+"ui.cursor.match"         = { fg = , bg = , modifiers = []}
+"ui.cursor.primary"       = { fg = , bg = , modifiers = []}
+
+"ui.linenr"               = { fg = , bg = , modifiers = []}
+"ui.linenr.selected"      =
+ 
+"ui.statusline"           = { fg = , bg = , modifiers = []}
+"ui.statusline.inactive"  = { fg = , bg = , modifiers = []}
+"ui.statusline.normal"    = { fg = , bg = , modifiers = []}
+"ui.statusline.insert"    = { fg = , bg = , modifiers = []}
+"ui.statusline.select"    = { fg = , bg = , modifiers = []}
+"ui.statusline.separator" = { fg = , bg = , modifiers = []}
+
+"ui.popup"                = { fg = , bg = , modifiers = []}
+"ui.popup.info"           = { fg = , bg = , modifiers = []}
+
+"ui.window"               = { fg = , bg = , modifiers = []}
+
+"ui.help"                 = { fg = , bg = , modifiers = []}
+
+"ui.text"                 = { fg = , bg = , modifiers = []}
+"ui.text.focus"           = { fg = , bg = , modifiers = []}
+"ui.text.info"            = { fg = , bg = , modifiers = []}
+
+"ui.virtual.ruler"        = { fg = , bg = , modifiers = []}
+"ui.virtual.whitespace"   = { fg = , bg = , modifiers = []}
+"ui.virtual.indent-guide" = { fg = , bg = , modifiers = []}
+
+"ui.menu"                 = { fg = , bg = , modifiers = []}
+"ui.menu.selected"        = { fg = , bg = , modifiers = []}
+"ui.menu.scroll"          = { fg = , bg = , modifiers = []}
+
+"ui.selection"            = { fg = , bg = , modifiers = []}
+"ui.selection.primary"    = { fg = , bg = , modifiers = []}
+
+"ui.cursorline.primary"   = { fg = , bg = , modifiers = []}
+"ui.cursorline.secondary" = { fg = , bg = , modifiers = []}
+
+"warning"                 = { fg = , bg = , modifiers = []}
+"hint"                    = { fg = , bg = , modifiers = []}
+
+"diagnostic"              = { fg = , bg = , modifiers = []}
+"diagnostic.hint"         = { fg = , bg = , modifiers = []}
+"diagnostic.info"         = { fg = , bg = , modifiers = []}
+"diagnostic.warning"      = { fg = , bg = , modifiers = []}
+"diagnostic.error"        = { fg = , bg = , modifiers = []}
+
+"attribute"               = { fg = , bg = , modifiers = []}
+"type"                    = { fg = , bg = , modifiers = []}
+"constructor"             = { fg = , bg = , modifiers = []}
+"constant"                = { fg = , bg = , modifiers = []}
+"string"                  = { fg = , bg = , modifiers = []}
+"comment"                 = { fg = , bg = , modifiers = []}
+"variable"                = { fg = , bg = , modifiers = []}
+"label"                   = { fg = , bg = , modifiers = []}
+"punctuation"             = { fg = , bg = , modifiers = []}
+"keyword"                 = { fg = , bg = , modifiers = []}
+"operator"                = { fg = , bg = , modifiers = []}
+"function"                = { fg = , bg = , modifiers = []}
+"tag"                     = { fg = , bg = , modifiers = []}
+"namespace"               = { fg = , bg = , modifiers = []}
+"markup"                  = { fg = , bg = , modifiers = []}
+"diff"                    = { fg = , bg = , modifiers = []}
+
+[palette]
+red                       = ""
+yellow                    = ""
+orange                    = ""
+green                     = ""
+blue                      = ""
+purple                    = ""
+black                     = ""
+gray                      = ""
+white                     = ""

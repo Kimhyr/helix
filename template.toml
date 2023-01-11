@@ -1,0 +1,82 @@
+"ui.background"           = 
+"ui.background.separator" = 
+"ui.cursor"               = 
+"ui.cursor.insert"        = 
+"ui.cursor.select"        = 
+"ui.cursor.match"         = 
+"ui.cursor.primary"       = 
+
+"ui.linenr"               = 
+"ui.linenr.selected"      =
+ 
+"ui.statusline"           = 
+"ui.statusline.inactive"  = 
+"ui.statusline.normal"    = 
+"ui.statusline.insert"    = 
+"ui.statusline.select"    = 
+"ui.statusline.separator" = 
+
+"ui.popup"                = 
+"ui.popup.info"           = 
+
+"ui.window"               = 
+
+"ui.help"                 = 
+
+"ui.text"                 = 
+"ui.text.focus"           = 
+"ui.text.info"            = 
+
+"ui.virtual.ruler"        = 
+"ui.virtual.whitespace"   = 
+"ui.virtual.indent-guide" = 
+
+"ui.menu"                 = 
+"ui.menu.selected"        = 
+"ui.menu.scroll"          = 
+
+"ui.selection"            = { fg = "white", modifiers = ["dim"] }
+"ui.selection.primary"    = 
+
+"ui.cursorline.primary"   = 
+"ui.cursorline.secondary" = 
+
+"warning"                 = { fg = "yellow" }
+"error"                   = { fg = "red" }
+"info"                    = { fg = "blue" }
+"hint"                    = { fg = "green" }
+
+"diagnostic"              = { fg = "gray" }
+"diagnostic.hint"         = { fg = "green" }
+"diagnostic.info"         = { fg = "blue" }
+"diagnostic.warning"      = { fg = "yellow" }
+"diagnostic.error"        = { fg = "red" }
+
+"attribute"               = { fg = "gray" }
+"type"                    = { fg = "yellow" }
+"constructor"             = { fg = "blue", modifiers = ["bold"] }
+"constant"                = { fg = "gray", modifiers = ["bold"] }
+"string"                  = { fg = "green" }
+"comment"                 = { fg = "gray", modifiers = ["dim"] }
+"variable"                = { fg = "white" }
+"label"                   = { fg = "red" }
+"punctuation"             = { fg = "white" }
+"keyword"                 = { fg = "purple" }
+"operator"                = { fg = "white" }
+"function"                = { fg = "blue" }
+"tag"                     = { fg = "red" }
+"namespace"               = { fg = "white" }
+"markup"                  = { fg = "red" }
+# "diff"                    = 
+
+[palette]
+black                     = "#282c34"
+gray                      = "#2c2e34"
+white                     = "#abb2bf"
+red                       = "#e06c75"
+# orange                    = "#"
+yellow                    = "#e5c07b"
+green                     = "#98c379"
+blue                      = "#61afef"
+cyan                      = "#56b6c2"
+purple                    = "#c678dd"

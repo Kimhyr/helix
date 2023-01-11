@@ -1,0 +1,12 @@
+[[language]]
+name = "c"
+file-types = ["c", "C", "h", "H"]
+indent = { tab-width = 8, unit = "\t" }
+
+[[language]]
+name = "cpp"
+file-types = ["cc", "CC", "hh", "HH", "cpp", "CPP", "hpp", "HPP"]
+indent = { tab-width = 8, unit = "  " }
+
+
+
